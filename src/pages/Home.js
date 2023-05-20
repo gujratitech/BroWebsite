@@ -16,8 +16,7 @@ const Home = () => {
             Learn From Industry Experts
           </h1>
           <p className="text-lg text-left md:text-center max-w-[60vw]">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam
-            maximus tortor at diam gravida posuere. Curabitur et malesuada mi
+       Enrich your career with emerging technology .get grip on advanced skills with corporation curated courses by expert alumini placed in top packages <br/> HAPHAZARDS! KNOW YOUR DIRECTION NOW!!
           </p>
 
           <button className="bg-white text-[#0274be] px-10 py-2 w-fit text-md rounded-full font-bold  hover:shadow-lg">
@@ -71,7 +70,17 @@ const Home = () => {
           />
         </section>
 
+
+
         <section className="flex flex-col md:flex-row -mt-2 items-center justify-center font-sans gap-6 py-10 px-8">
+          <div className="container">
+            <div className="left-img">
+
+            </div>
+            <div className="right">
+              
+            </div>
+          </div>
         </section>
       </main>
       <Footer />

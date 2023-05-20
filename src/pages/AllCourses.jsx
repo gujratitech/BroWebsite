@@ -12,27 +12,33 @@ const AllCourses = () => {
                         All Courses
                     </h1>
                     <p className="text-lg text-left md:text-center max-w-[60vw]">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        Etiam maximus tortor at diam gravida posuere. Curabitur
-                        et malesuada mi
+                    Premium content for learners with a foresight towards their career and a fantacy to lift it up 
+                    <br/>Begin your journey here
                     </p>
                 </div>
             </Header>
             <section className="flex flex-col md:flex-row -mt-2 items-center justify-center font-sans gap-6 py-[100px] px-8">
                 <CourseCard
-                    heading="Social Media Marketing"
+                    heading="Blockchain Developer"
                     image="https://websitedemos.net/learndash-academy-02/wp-content/uploads/sites/457/2019/05/course-1-free-img-400x223.jpg"
-                    description="Lorem ipsum dolor sit amet, consectetur adipiscing elit pellentesque porta."
+                    description="
+                    Blockchain is the revolutionary technology that enables peer to peer transfer of Digital assets without intermides and is predicted to be as powerfull as internet and used to immutably record any number of data points
+
+                    ...
+                   "
                 />
                 <CourseCard
-                    heading="Email Marketing Strategies"
+                    heading="Web 3.0"
                     image="https://websitedemos.net/learndash-academy-02/wp-content/uploads/sites/457/2019/05/course-2-free-img-400x223.jpg"
-                    description="In porttitor ipsum eu justo condimentum euismod ullamcorper viverra."
+                    description="Web 3.0is an idea for a new iteration of the World Wide Web which incorporates concepts such as decentralization, blockchain technologies, and token-based economics  "
                 />
                 <CourseCard
-                    heading="Content Marketing"
+                    heading="Git & Github"
                     image="https://websitedemos.net/learndash-academy-02/wp-content/uploads/sites/457/2019/05/course-2-free-img-400x223.jpg"
-                    description="Repellat perspiciatis cum! Doloremque ea viverra eu doloremque."
+                    description="
+                    Git is the popular version of the control system that provides a platform to work together as a team It is used for tracking code changes, who made changes and coding colaboration...
+                    
+                    "
                 />
             </section>
             <section className="bg-[#FAFAFA] py-[100px] px-40">
@@ -52,9 +58,7 @@ const AllCourses = () => {
                         Join Our 7452 Happy Students Today!
                     </h2>
                     <p className="font-sans text-left md:text-center text-white">
-                        Enter description text here. Lorem ipsum dolor sit amet,
-                        consectetur adipiscing elit. Ut elit tellus, luctus nec
-                        ullamcorper mattis, pulvinar dapibus leo.
+                    Working forward to forge ahead students to dignify their career with high end training modules
                     </p>
                     <button className="bg-white text-[#0d68ae] p-4 px-10 rounded-[50px]">
                         Start Learning
