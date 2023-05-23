@@ -16,7 +16,7 @@ const Home = () => {
             Learn From Industry Experts
           </h1>
           <p className="text-lg text-left md:text-center max-w-[60vw]">
-       Enrich your career with emerging technology .get grip on advanced skills with corporation curated courses by expert alumini placed in top packages <br/> HAPHAZARDS! KNOW YOUR DIRECTION NOW!!
+       Enrich your career with emerging technology .get grip on advanced skills with corporation curated courses by expert alumini placed in top packages 
           </p>
 
           <button className="bg-white text-[#0274be] px-10 py-2 w-fit text-md rounded-full font-bold  hover:shadow-lg">
@@ -27,18 +27,18 @@ const Home = () => {
       <div className="flex flex-col md:justify-center px-8 items-center md:flex-row gap-8 w-full relative -translate-y-[100px]">
         <SpecialitiesCard
           image="./images/training.svg"
-          heading="Actionable Training"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          heading="Emerging technologies"
+          description="Be ahead in this advanced world with a grip on emerging technology."
         />
         <SpecialitiesCard
           image="./images/puzzle.svg"
-          heading="Interesting Quizzes"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+          heading="Back 2 Basics"
+          description="Pedestal for a rising career in tech."
         />
         <SpecialitiesCard
           image="./images/box.svg"
-          heading="Premium Material"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          heading="Study Material"
+          description="Practice for creating great technologies."
         />
       </div>
       <main className="home">
@@ -47,8 +47,7 @@ const Home = () => {
             Our Most Popular Courses
           </h1>
           <p className=" text-center md:max-w-[40vw] font-semibold text-md text-gray-500">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac
-            eros ut dui bibendum ultricies. Maecenas egestas fringilla semper.
+          Groom yourself technically with enhancement of skills in industrial Science. Tailor your career with experts
           </p>
         </section>
 

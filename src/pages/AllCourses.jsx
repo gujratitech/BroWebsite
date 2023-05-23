@@ -20,7 +20,7 @@ const AllCourses = () => {
             <section className="flex flex-col md:flex-row -mt-2 items-center justify-center font-sans gap-6 py-[100px] px-8">
                 <CourseCard
                     heading="Blockchain Developer"
-                    image="https://websitedemos.net/learndash-academy-02/wp-content/uploads/sites/457/2019/05/course-1-free-img-400x223.jpg"
+                    image="images/blockchain logo.jpg"
                     description="
                     Blockchain is the revolutionary technology that enables peer to peer transfer of Digital assets without intermides and is predicted to be as powerfull as internet and used to immutably record any number of data points
 
@@ -29,12 +29,12 @@ const AllCourses = () => {
                 />
                 <CourseCard
                     heading="Web 3.0"
-                    image="https://websitedemos.net/learndash-academy-02/wp-content/uploads/sites/457/2019/05/course-2-free-img-400x223.jpg"
+                    image="images/web 3 logo.png"
                     description="Web 3.0is an idea for a new iteration of the World Wide Web which incorporates concepts such as decentralization, blockchain technologies, and token-based economics  "
                 />
                 <CourseCard
                     heading="Git & Github"
-                    image="https://websitedemos.net/learndash-academy-02/wp-content/uploads/sites/457/2019/05/course-2-free-img-400x223.jpg"
+                    image="images/github logo2.webp"
                     description="
                     Git is the popular version of the control system that provides a platform to work together as a team It is used for tracking code changes, who made changes and coding colaboration...
                     

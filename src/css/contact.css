@@ -1,0 +1,128 @@
+body{
+    background-color: #FAFAFA;
+}
+.header-sec{
+   background-color: #016BBC;
+   height: 60vh;
+   padding: 8rem 5rem;
+   color: #fff;
+   text-align: center;
+
+}
+.header-sec h1{
+    font-size: 3.5rem;
+    font-weight: 500;
+    padding: 1rem 0rem;
+
+}
+.header-sec p{
+    font-size: 1.1rem;
+    max-width: 100%;
+    text-align: center;
+}
+
+.second-sec{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 3rem;
+    /* height: 100%; */
+}
+
+.callus{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 35%;
+    height: 30vh;
+    padding: 3rem;
+    background-color: #fff;
+    margin: 1rem;
+    color: #2F3F50;
+    font-size: 1.5rem;
+    font-weight: 500;
+    box-shadow: -2px -2px 8px -3px rgba(0,0,0,0.75);
+    border-radius: 1rem;
+}
+.writeus{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 40%;
+    height: 30vh;
+    font-size: 1.5rem;
+    font-weight: 500;
+    padding: 3rem;
+    background-color: #fff;
+    margin: 1rem;
+    border-radius: 1rem;
+    box-shadow: -2px -2px 8px -3px rgba(0,0,0,0.75);
+    
+}
+.mainoffice{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 40%;
+    height: 30vh;
+    padding: 3rem;
+    background-color: #fff;
+    margin: 1rem;
+    box-shadow: -2px -2px 8px -3px rgba(0,0,0,0.75);
+    font-size: 1.5rem;
+    border-radius: 1rem;
+    font-weight: 500;
+}
+
+.third-sec{
+    /* background-color: #016BBC; */
+
+}
+.contact-form{
+    padding: 3rem;
+    width: 50%;
+    height: 50%;
+    box-shadow: -2px -2px 8px -3px rgba(0,0,0,0.75);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+ transform: translateX(-50%, -50%);
+ left: 25%;
+ border-radius: 1rem;
+}
+.contact-form input{
+    padding: 1rem 2rem;
+    outline: none;
+    width: 100%;
+    border: 0.8rem;
+    border: 1px solid grey;
+    border-radius: 0.3rem;
+}
+textarea{
+    border: 1px solid grey;
+    border-radius: 0.3rem;
+    outline: none;
+}
+.contact-form label{
+    padding: 1rem;
+    display: flex;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+.accordion{
+    position:relative;
+    left:25%;
+    background-color: #2F3F50;
+    border-radius: 1rem;
+    width: 50%;
+    text-align: center;
+    padding: 2rem 2rem;
+    margin: 3rem 0rem;
+}
+
