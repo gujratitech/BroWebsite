@@ -10,13 +10,11 @@ const Navbar = () => {
             <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
                 <Link to={"/"} className="flex items-center">
                     <img
-                        src="https://flowbite.com/docs/images/logo.svg"
-                        className="h-8 mr-3"
+                        src="images\bro_logo-removebg-preview.png"
+                        className="h-12 mr-8"
                         alt="Flowbite Logo"
                     />
-                    <span className="self-center text-2xl text-white font-semibold whitespace-nowrap dark:text-white">
-                        Flowbite
-                    </span>
+                    <span className="self-center text-2xl text-white font-semibold whitespace-nowrap dark:text-white">                    </span>
                 </Link>
                 <button
                     data-collapse-toggle="navbar-default"
