@@ -3,6 +3,7 @@ import Header from "../components/Header";
 import Footer from "../components/Footer";
 import SpecialitiesCard from "../components/SpecialitiesCard";
 import CourseCard from "../components/CourseCard";
+import { Link } from "react-router-dom";
 
 const Home = () => {
   return (
@@ -20,7 +21,7 @@ const Home = () => {
           </p>
 
           <button className="bg-white text-[#0274be] px-10 py-2 w-fit text-md rounded-full font-bold  hover:shadow-lg">
-            View All Courses
+            <Link to={"/signup"}>Register</Link>
           </button>
         </div>
       </Header>

@@ -11,7 +11,7 @@ const Navbar = () => {
                 <Link to={"/"} className="flex items-center">
                     <img
                         src="images\bro_logo-removebg-preview.png"
-                        className="h-12 mr-8"
+                        className="h-12 mr-10"
                         alt="Flowbite Logo"
                     />
                     <span className="self-center text-2xl text-white font-semibold whitespace-nowrap dark:text-white">                    </span>
