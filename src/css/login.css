@@ -59,8 +59,6 @@ label{
 }
 .already-account{
     font-size: 1rem;
-    transform: translateX(50%);
+    transform: translateX(40%);
     margin-top: 10px;
-    width: 50%;
-   text-align: center;
 }

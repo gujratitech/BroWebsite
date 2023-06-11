@@ -1,8 +1,9 @@
 import React from 'react'
 import Navbar from './Navbar'
-import Header from './Header'
+// import Header from './Header'
 import '../css/signup.css'
 import Footer from './Footer'
+import { NavLink } from 'react-router-dom'
 
 const Signup = () => {
   return (
@@ -30,6 +31,8 @@ const Signup = () => {
                 <input type="number" name="number" id="number" />
             </div>
         </div>
+
+        <p className='already-account'>Already have an account?<NavLink to={"/login"}>Sign in here</NavLink></p>
       </form>
       <Footer/>
     </>
