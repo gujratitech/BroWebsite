@@ -42,7 +42,7 @@ const Home = () => {
           description="Practice for creating great technologies."
         />
       </div>
-      <main className="home">
+      {/* <main className="home">
         <section className="flex flex-col items-center justify-center font-sans gap-6 py-10 px-8">
           <h1 className="text-4xl text-center text-gray-700 font-bold">
             Our Most Popular Courses
@@ -82,7 +82,7 @@ const Home = () => {
             </div>
           </div>
         </section>
-      </main>
+      </main> */}
       <Footer />
     </>
   );
